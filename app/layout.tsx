@@ -20,7 +20,7 @@ const roboto = Roboto({
 export const metadata: Metadata = {
   title: "Emissions in the Age of Innovation",
   description: "Analyzing the Paradox Between Technological Progress and Global CO₂ Emissions",
-    generator: 'v0.dev'
+    generator: 'Hooman'
 }
 
 export default function RootLayout({
