@@ -5,7 +5,7 @@ import { ExternalLink } from "lucide-react"
 
 export default function Dashboard() {
   return (
-    <div className="section-container bg-gray-50">
+    <div className="section-container bg-gray-50 py-12">
       <h2 className="section-title">Interactive Dashboard</h2>
 
       <motion.p
