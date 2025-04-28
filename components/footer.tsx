@@ -38,7 +38,7 @@ export default function Footer() {
               </li>
               <li>
                 <Link
-                  href="https://www.kaggle.com/datasets"
+                  href="https://www.kaggle.com/datasets/moazzimalibhatti/co2-emission-by-countries-year-wise-17502022#"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-300 hover:text-[#4ECDC4] transition-colors duration-300"
